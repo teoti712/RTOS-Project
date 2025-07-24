@@ -56,7 +56,7 @@ An end-of-semester project for my Real-Time Operating System course, implements 
 
 ##  System Block Diagram
 
-<img width="1047" height="816" alt="image" src="https://github.com/user-attachments/assets/a4338ebb-d9eb-42f6-bd32-6561e2572812" />
+<img width="1337" height="886" alt="image" src="https://github.com/user-attachments/assets/6409d6ff-2d9a-4517-a28c-6fa93f32a916" />
 
 
 ## Demo
