@@ -1,6 +1,6 @@
 # RTOS Smartwatch
 
-This project implements a **Smartwatch using FreeRTOS on ESP32** for real-time clock display, heart rate and SpO₂ monitoring, temperature and humidity measurement, alarm management, health alerts, and MQTT data upload.
+An end-of-semester project for my Real-Time Operating System course, implements a Smartwatch using FreeRTOS on ESP32 for real-time clock display, heart rate and SpO₂ monitoring, temperature and humidity measurement, alarm management, health alerts, and MQTT data upload.
 
 ## Features
 
